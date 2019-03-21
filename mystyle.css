@@ -1,0 +1,114 @@
+body {
+			background-image: url("https://i.pinimg.com/originals/52/a5/1e/52a51e8670a95c9379714656f3bfd3f1.jpg")
+		}
+		
+		h1 {
+			color: #ff0094;
+			text-align: center;
+			font-size: 100px;
+			font-family: Arial Black;
+		}
+
+		h2{
+			color: #e5ff00;
+			text-align: right;
+			font-size: 60px;
+			font-family: Arial;
+		}
+		
+		.terms{
+			color: white;
+			font-family: verdana;
+			font-size: 50px;
+		}
+		
+		p{
+			color: #ffbb00;
+			font-family: verdana;
+			font-size: 20px;
+		}
+		
+		.123{
+			width:20%;
+			hight:20%;
+			position: absolute;
+			top: 550px;
+			right: 500px;
+		}
+		
+		.heading {
+			font-family: Comfortaa;
+			font-size: 60px;
+			color: #00ff4c;
+		}
+		
+		.t1pic {
+			
+			width: 25%;
+			height: 25%;
+			text-align: center-right;
+			position-left:75%;
+		}
+		
+		.termone {
+			position: fixed;
+			top: 1%;
+			left: 1%;
+		}
+		
+		.termtwo {
+			position: fixed;
+			top: 1%;
+			left: 11%;
+			
+		}
+		
+		.termthree {
+			position: fixed;
+			top: 1%;
+			left: 21%;
+		}
+		
+		.termfour {
+			position: fixed;
+			left: 31%;
+			top: 1%;
+		}
+		
+		.randombutton {
+			position: fixed;
+			top: 5px;
+			right: 5px;
+			
+		}
+		
+		.buttongroup{
+			float: left;
+			text-align: centre;
+			border: none;
+			width: 10%;
+			padding: 2%;
+			font-family: Indie Flower;
+			font-size: 15px;
+			-webkit-transition-duration: 0.4s;
+			transition-duration: 0.4s;
+			background-color: #43a9f2
+		}
+		
+		.termone:hover {
+			box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+		}
+
+		.termtwo:hover {
+			box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+		}
+		
+		.termthree:hover {
+			box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+		}
+		
+		.termfour:hover {
+			box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+		}
+		
+		
